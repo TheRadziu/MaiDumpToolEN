@@ -13,7 +13,7 @@ Issues with the tool itself should be redirected at [BeniYukiMai's Issue page][m
 Latests release can be found [here][ourreleases].
 
    [mai]: <https://github.com/BeniYukiMai/MaiDumpTool>
-   [ourreleases]: <https://github.com/TheRadziu/MaiDumpToolEN/issues>
+   [ourreleases]: <https://github.com/TheRadziu/MaiDumpToolEN/releases>
    [ourissues]: <https://github.com/TheRadziu/MaiDumpToolEN/issues>
    [maiissues]: <https://github.com/BeniYukiMai/MaiDumpTool/issues>
    
